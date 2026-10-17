@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.git/
+.env
+.streamlit/secrets.toml
+*.pdf
+zos_learning_rag_index.joblib
